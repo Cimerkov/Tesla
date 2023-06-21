@@ -1,0 +1,29 @@
+.logo{
+    width:150px;
+}
+
+.custom-hover-class:hover {
+    color: #FF0000 !important; 
+  }
+
+  .fullscreen-bg {
+    background-image: url('teslabg.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+
+  .text-justify {
+    text-align: justify !important;
+}
+
+.carousel-image {
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;}
+  
+
+#copyright{
+    height: 40px;
+}
